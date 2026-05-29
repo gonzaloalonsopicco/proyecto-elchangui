@@ -70,8 +70,10 @@ const Contactanos = () => {
 
             <div className="container">
                 <div className='divMapaContactanos'>
-                    <iframe className='mapaContactanos' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53342.25751681199!2d-66.23663209663756!3d-33.321662514145316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95d4179435989099%3A0x4fe1f96ef39b8d36!2sEl%20Changui!5e0!3m2!1ses!2sar!4v1679945015272!5m2!1ses!2sar" loading="lazy"></iframe>
-                    <p className='textoMapaUbicacionContactanos'>Ruta Nacional N° 7 - KM  776,5Juana Koslay. San Luis, Argentina</p>
+                    <iframe className='mapaContactanos' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d53342.25751681199!2d-66.23663209663756!3d-33.321662514145316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95d4179435989099%3A0x4fe1f96ef39b8d36!2sEl%20Changui!5e0!3m2!1ses!2sar!4v1679945015272!5m2!1ses!2sar" loading="lazy"
+                     title="Mapa de ubicación de El Changui"
+                    ></iframe>
+                    <p className='textoMapaUbicacionContactanos'>Ruta Nacional N° 7 - KM   776,5Juana Koslay. San Luis, Argentina</p>
                 </div>
             </div>
 
