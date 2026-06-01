@@ -61,7 +61,7 @@ const Contactanos = () => {
                                 <path d="M8 8a2 2 0 1 1 0-4 2 2 0 0 1 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z" />
                             </svg>
                             <h2 className='tituloRedesContactanos'>Ubicación</h2>
-                            <p className='textoRedesContactanos'>Ruta Nacional N° 7 - KM  776,5Juana Koslay. San Luis, Argentina</p>
+                            <p className='textoRedesContactanos'>Ruta Nacional N° 7 - KM  776,Juana Koslay. San Luis, Argentina</p>
                         </Link>
 
                     </div>
